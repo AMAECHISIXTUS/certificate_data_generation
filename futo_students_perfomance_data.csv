@@ -1,0 +1,150 @@
+REGNO,Department,School,YEAR 1 CGPA,YEAR 2 CGPA,YEAR 3 CGPA,YEAR 4 CGPA,YEAR 5 CGPA,CGPA
+20071193816,Public Health Technology,School of Health Technology (SOHT),4.58,1.32,1.85,1.07,4.12,2.588
+20031120978,Environmental Health Science,School of Health Technology (SOHT),4.76,4.52,2.48,4.25,4.08,4.017999999999999
+20021105033,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),2.33,2.06,3.05,3.92,4.19,3.1100000000000003
+20041070410,Prosthetics and Orthotics,School of Health Technology (SOHT),1.04,1.36,3.79,1.96,4.09,2.448
+20211005888,Environmental Health Science,School of Health Technology (SOHT),3.47,3.61,4.43,3.12,4.66,3.8579999999999997
+20221085809,Cyber Security,School of Information and Communication Technology (SICT),1.5,3.09,1.95,3.65,2.37,2.5119999999999996
+20081130434,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),2.76,4.56,2.15,4.83,2.79,3.418
+20181076629,Cyber Security,School of Information and Communication Technology (SICT),4.66,2.92,3.27,2.58,4.26,3.5379999999999994
+20201037451,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),1.78,3.32,4.29,2.7,4.05,3.228
+20161101867,Crop Science and Technology,School of Agriculture And Agricultural Technology (SAAT),4.47,2.93,1.23,2.07,1.62,2.464
+20031133157,School of Basic Medical Science,School of Basic Medical Science (SBMS),1.11,4.39,1.89,2.64,4.95,2.996
+20221086962,Biochemistry,School of Biological Science (SOBS),4.15,1.31,1.41,4.83,4.41,3.222
+20211093869,Microbiology,School of Biological Science (SOBS),2.14,3.56,4.65,2.92,1.63,2.9800000000000004
+20041084116,Material and Matallurgical Engineering,School of Engineering and Engineering Technology (SEET),2.45,1.94,1.02,1.7,2.66,1.954
+20031014611,Agricultural Extension,School of Agriculture And Agricultural Technology (SAAT),4.88,4.32,2.39,4.7,1.67,3.592
+20031198406,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),4.02,1.79,1.48,4.53,1.86,2.7359999999999998
+20071161701,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),2.69,1.53,1.63,3.67,3.87,2.678
+20211052809,Quantity Surveying,School of Environmental Science (SOES),4.86,1.02,2.75,1.84,2.65,2.624
+20031095869,Financial Management Technology,School of Management Technology (SMAT),1.78,1.65,3.19,4.59,3.81,3.004
+20051070768,Environmental Health Science,School of Health Technology (SOHT),1.07,3.59,4.45,3.13,2.17,2.8819999999999997
+20211199875,School of Basic Medical Science,School of Basic Medical Science (SBMS),1.53,2.07,3.07,4.93,3.06,2.932
+20181145925,Dental Technology,School of Health Technology (SOHT),2.88,4.84,3.27,3.31,2.49,3.3579999999999997
+20071185373,Computer Science,School of Information and Communication Technology (SICT),3.06,4.73,1.53,2.97,3.81,3.22
+20191116997,Civil Engineering,School of Engineering and Engineering Technology (SEET),3.39,1.71,4.19,2.68,2.28,2.8499999999999996
+20021000301,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),1.23,3.55,1.4,4.63,1.94,2.55
+20091090003,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),1.04,3.26,4.1,1.36,2.09,2.3699999999999997
+20091189832,Cyber Security,School of Information and Communication Technology (SICT),1.34,4.51,4.09,3.41,1.02,2.8739999999999997
+20171134341,Statistics,School of Physical Science (SOPS),3.66,2.47,3.62,2.18,3.04,2.9939999999999998
+20051141935,Biochemistry,School of Biological Science (SOBS),4.65,1.43,3.32,3.92,3.92,3.4480000000000004
+20171178177,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),2.82,1.12,4.67,3.45,2.38,2.8879999999999995
+20191042042,Fisheries and Aquaculture Technology,School of Agriculture And Agricultural Technology (SAAT),3.73,3.83,1.67,3.27,4.6,3.4200000000000004
+20041068125,Science Laboratory Technology,School of Physical Science (SOPS),4.58,3.78,4.07,2.36,1.32,3.222
+20141124915,Chemistry,School of Physical Science (SOPS),3.34,1.68,3.69,1.46,3.48,2.7299999999999995
+20081005994,Surveying and Geoinformatics,School of Environmental Science (SOES),4.52,4.08,2.09,2.41,4.66,3.5519999999999996
+20151144906,Forensic Science,School of Biological Science (SOBS),1.8,2.96,2.76,4.97,2.16,2.9299999999999997
+20021076835,Cyber Security,School of Information and Communication Technology (SICT),4.37,4.49,4.28,1.31,1.96,3.282
+20151083602,Financial Management Technology,School of Management Technology (SMAT),1.51,1.49,3.8,3.87,3.53,2.84
+20141189066,Petroleum Engineering,School of Engineering and Engineering Technology (SEET),1.68,1.88,1.98,4.13,1.71,2.276
+20011131960,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),1.72,3.66,2.8,4.46,1.8,2.8880000000000003
+20171035457,Biotechnology,School of Biological Science (SOBS),2.6,2.73,4.24,3.01,1.12,2.7399999999999998
+20031043599,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),1.51,2.68,4.29,2.54,4.19,3.0420000000000003
+20171055171,Biochemistry,School of Biological Science (SOBS),2.83,4.28,1.53,2.73,4.09,3.092
+20111037701,Architecture,School of Environmental Science (SOES),3.92,1.8,2.19,4.52,1.03,2.6919999999999997
+20161149482,Project Management Technology,School of Management Technology (SMAT),3.22,1.36,4.93,4.03,1.53,3.014
+20171153509,Surveying and Geoinformatics,School of Environmental Science (SOES),3.96,3.67,4.7,2.5,3.13,3.592
+20091058179,Mathematics,School of Physical Science (SOPS),4.26,2.45,1.84,1.63,3.64,2.7640000000000002
+20001027003,Chemistry,School of Physical Science (SOPS),1.38,2.12,1.32,1.96,2.38,1.832
+20141106559,Biochemistry,School of Biological Science (SOBS),2.14,1.03,3.57,2.29,3.59,2.524
+20121123709,Urban and Regional Planning,School of Environmental Science (SOES),4.37,1.38,4.23,3.05,2.82,3.1700000000000004
+20071097463,Biotechnology,School of Biological Science (SOBS),3.54,3.9,1.41,1.84,1.07,2.352
+20111158748,Project Management Technology,School of Management Technology (SMAT),2.12,4.62,2.45,3.29,1.81,2.858
+20211106021,Chemistry,School of Physical Science (SOPS),4.04,1.78,2.63,4.1,3.0,3.11
+20001145261,Urban and Regional Planning,School of Environmental Science (SOES),2.04,1.92,3.78,2.53,3.05,2.664
+20091180068,Physics,School of Physical Science (SOPS),1.58,2.65,1.26,2.85,1.59,1.986
+20121196261,Maritime Management Technology,School of Management Technology (SMAT),1.72,3.07,1.75,4.03,2.3,2.5740000000000003
+20091174084,Information Technology,School of Information and Communication Technology (SICT),2.41,1.6,1.81,2.36,2.54,2.1439999999999997
+20111116539,Agricultural Extension,School of Agriculture And Agricultural Technology (SAAT),3.1,1.18,4.15,3.37,1.63,2.686
+20051152678,Urban and Regional Planning,School of Environmental Science (SOES),4.25,4.72,4.21,3.2,4.61,4.1979999999999995
+20081053127,Building Technology,School of Environmental Science (SOES),3.98,4.26,3.02,4.22,2.7,3.636
+20001093916,Microbiology,School of Biological Science (SOBS),2.04,1.77,2.68,4.17,4.4,3.012
+20161181455,Management Technology,School of Management Technology (SMAT),1.93,4.25,2.0,2.49,4.59,3.052
+20131152010,Material and Matallurgical Engineering,School of Engineering and Engineering Technology (SEET),2.38,3.42,1.4,1.16,4.43,2.558
+20051136989,Statistics,School of Physical Science (SOPS),4.53,1.59,4.16,3.59,1.65,3.104
+20011073735,Geology,School of Physical Science (SOPS),2.04,2.09,2.44,2.66,2.13,2.272
+20171137098,Chemistry,School of Physical Science (SOPS),4.3,1.28,3.27,3.44,3.97,3.252
+20071041087,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),4.87,1.66,3.86,1.03,3.64,3.012
+20151179758,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),1.66,4.46,4.37,4.1,4.12,3.742
+20061136531,Biochemistry,School of Biological Science (SOBS),1.86,3.78,1.21,2.47,1.86,2.2359999999999998
+20051174222,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),3.3,2.12,1.76,1.1,4.88,2.632
+20041196704,School of Basic Medical Science,School of Basic Medical Science (SBMS),1.32,4.23,1.45,2.45,2.3,2.35
+20041062366,Information Technology,School of Information and Communication Technology (SICT),3.7,4.51,1.14,2.21,3.82,3.0760000000000005
+20001090619,School of Basic Medical Science,School of Basic Medical Science (SBMS),1.96,4.37,4.15,4.6,4.05,3.8259999999999996
+20111075310,Prosthetics and Orthotics,School of Health Technology (SOHT),2.08,2.67,4.42,1.69,1.47,2.466
+20151081432,Forensic Science,School of Biological Science (SOBS),2.8,4.46,3.1,1.46,4.74,3.3120000000000003
+20131022983,Fisheries and Aquaculture Technology,School of Agriculture And Agricultural Technology (SAAT),2.83,3.01,2.29,4.19,2.36,2.936
+20121093220,Agricultural and Bio resources Engineering,School of Engineering and Engineering Technology (SEET),4.93,2.14,4.03,1.0,2.21,2.8620000000000005
+20181003906,Agricultural Economics,School of Agriculture And Agricultural Technology (SAAT),4.21,1.05,1.75,4.14,1.3,2.4899999999999998
+20081089616,Geology,School of Physical Science (SOPS),3.16,3.36,2.2,1.63,1.25,2.3199999999999994
+20051108223,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),1.72,2.36,2.99,4.45,1.39,2.582
+20051197819,Optometry,School of Health Technology (SOHT),3.4,1.74,4.4,3.12,3.23,3.178
+20041183602,School of Basic Medical Science,School of Basic Medical Science (SBMS),1.22,4.84,2.01,1.63,2.66,2.472
+20081120227,Chemistry,School of Physical Science (SOPS),1.11,4.72,3.81,1.95,3.51,3.02
+20141011275,Computer Science,School of Information and Communication Technology (SICT),2.23,3.92,4.32,4.65,3.95,3.814
+20161026804,Management Technology,School of Management Technology (SMAT),1.98,2.66,1.79,3.96,2.93,2.664
+20131147173,School of Basic Medical Science,School of Basic Medical Science (SBMS),2.95,4.39,1.0,4.37,3.5,3.242
+20031090407,Agricultural Economics,School of Agriculture And Agricultural Technology (SAAT),2.79,2.5,3.37,3.54,2.3,2.9
+20181151438,Biochemistry,School of Biological Science (SOBS),2.99,2.41,1.57,4.09,3.24,2.8600000000000003
+20181050126,Information Technology,School of Information and Communication Technology (SICT),2.87,3.98,2.83,2.49,1.68,2.77
+20151184596,Computer Science,School of Information and Communication Technology (SICT),4.69,2.93,4.81,2.83,1.69,3.3899999999999997
+20121183358,School of Basic Medical Science,School of Basic Medical Science (SBMS),3.27,2.99,4.87,3.68,1.95,3.3519999999999994
+20221034466,Building Technology,School of Environmental Science (SOES),2.03,2.7,2.08,3.22,2.91,2.588
+20141046973,Material and Matallurgical Engineering,School of Engineering and Engineering Technology (SEET),2.14,1.37,4.91,3.27,4.85,3.308
+20221104231,Biomedical Technology,School of Health Technology (SOHT),3.09,4.73,1.86,2.81,2.84,3.066
+20081172386,Animal Science and Technology,School of Agriculture And Agricultural Technology (SAAT),1.23,4.26,3.33,4.49,4.74,3.6100000000000003
+20101032237,Biotechnology,School of Biological Science (SOBS),4.32,1.74,3.74,3.82,1.17,2.958
+20101088562,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),2.73,3.25,4.31,2.97,2.51,3.154
+20031142006,Civil Engineering,School of Engineering and Engineering Technology (SEET),3.8,3.1,1.92,1.96,3.75,2.906
+20111178065,Optometry,School of Health Technology (SOHT),4.75,2.11,1.87,2.94,3.85,3.104
+20131158934,Science Laboratory Technology,School of Physical Science (SOPS),3.81,2.32,4.77,3.46,1.53,3.178
+20081165497,Software Engineering,School of Information and Communication Technology (SICT),4.25,4.87,4.5,4.1,4.15,4.374
+20061097887,Surveying and Geoinformatics,School of Environmental Science (SOES),3.05,4.19,4.7,3.95,3.6,3.8980000000000006
+20051024726,Biotechnology,School of Biological Science (SOBS),1.96,4.3,4.03,2.53,1.52,2.8679999999999994
+20111075490,Polymer and Textile Engineering,School of Engineering and Engineering Technology (SEET),2.66,3.45,4.23,4.46,2.53,3.466
+20171112045,School of Basic Medical Science,School of Basic Medical Science (SBMS),4.26,3.72,2.03,4.21,2.92,3.428
+20051185227,Computer Science,School of Information and Communication Technology (SICT),4.35,4.85,3.78,2.34,1.19,3.3019999999999996
+20161193629,Mathematics,School of Physical Science (SOPS),3.12,4.64,4.05,2.54,3.16,3.502
+20211007180,Physics,School of Physical Science (SOPS),4.45,3.03,4.52,1.43,2.63,3.2119999999999997
+20121028941,Management Technology,School of Management Technology (SMAT),4.82,4.48,4.34,2.58,1.03,3.45
+20001005197,Biotechnology,School of Biological Science (SOBS),4.54,4.95,2.66,4.83,1.64,3.724
+20151072626,Public Health Technology,School of Health Technology (SOHT),1.64,3.18,4.35,3.86,4.38,3.482
+20121194990,Biochemistry,School of Biological Science (SOBS),1.26,4.75,1.41,3.61,1.47,2.5
+20081113608,Agricultural Extension,School of Agriculture And Agricultural Technology (SAAT),1.04,2.96,4.63,4.02,4.68,3.4659999999999997
+20111171961,Information Technology,School of Information and Communication Technology (SICT),4.84,3.34,3.63,4.95,2.89,3.9299999999999997
+20011087521,Information Technology,School of Information and Communication Technology (SICT),2.71,4.37,3.16,3.95,2.96,3.4300000000000006
+20201127706,Software Engineering,School of Information and Communication Technology (SICT),3.29,4.79,3.27,1.31,1.52,2.836
+20131186078,Information Technology,School of Information and Communication Technology (SICT),4.49,1.04,2.33,3.08,1.55,2.498
+20051180888,Information Technology,School of Information and Communication Technology (SICT),4.37,2.83,4.33,2.76,1.7,3.198
+20061058320,Food Science and technology,School of Engineering and Engineering Technology (SEET),1.02,1.48,4.44,4.67,3.16,2.9539999999999997
+20041052635,Agricultural and Bio resources Engineering,School of Engineering and Engineering Technology (SEET),3.59,1.95,4.45,1.96,3.27,3.0439999999999996
+20101038995,Crop Science and Technology,School of Agriculture And Agricultural Technology (SAAT),3.12,3.11,1.49,3.9,3.55,3.0340000000000003
+20151060259,Petroleum Engineering,School of Engineering and Engineering Technology (SEET),4.52,1.59,3.51,3.69,4.61,3.5839999999999996
+20041074638,Quantity Surveying,School of Environmental Science (SOES),4.31,3.8,3.9,1.07,2.49,3.114
+20131089495,Statistics,School of Physical Science (SOPS),2.36,4.86,3.86,2.8,3.84,3.5439999999999996
+20081174046,Architecture,School of Environmental Science (SOES),2.15,3.71,2.64,1.36,4.76,2.924
+20101195020,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),2.37,4.56,4.98,1.71,4.54,3.632
+20191196702,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),2.4,3.2,3.64,3.65,4.03,3.3840000000000003
+20061073911,Computer Science,School of Information and Communication Technology (SICT),4.07,1.97,2.14,3.69,2.91,2.956
+20141052907,Quantity Surveying,School of Environmental Science (SOES),2.26,4.17,3.34,1.81,4.26,3.168
+20201183552,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),3.2,2.17,2.12,3.69,1.27,2.4899999999999998
+20151068452,Biochemistry,School of Biological Science (SOBS),4.6,4.11,4.62,3.67,3.1,4.0200000000000005
+20121088210,Chemical Engineering,School of Engineering and Engineering Technology (SEET),1.56,4.37,1.67,1.51,3.23,2.468
+20221164275,School of Basic Medical Science,School of Basic Medical Science (SBMS),3.25,2.79,2.66,4.24,4.92,3.572
+20221083945,Cyber Security,School of Information and Communication Technology (SICT),2.2,3.61,1.68,2.73,2.91,2.6260000000000003
+20161134975,School of Basic Medical Science,School of Basic Medical Science (SBMS),1.14,2.63,1.84,4.07,2.77,2.4899999999999998
+20061179780,Fisheries and Aquaculture Technology,School of Agriculture And Agricultural Technology (SAAT),1.27,1.87,2.69,1.73,2.94,2.1
+20141051488,School of Electrical Systems Engineering Technology (SESET),School of Electrical Systems Engineering Technology (SESET),2.15,1.35,3.16,1.07,3.07,2.16
+20151138092,Environmental Health Science,School of Health Technology (SOHT),4.53,2.17,1.92,3.2,3.05,2.974
+20031083819,Financial Management Technology,School of Management Technology (SMAT),2.33,3.56,1.89,1.89,2.46,2.4259999999999997
+20161163350,Statistics,School of Physical Science (SOPS),3.66,3.6,4.26,4.19,3.82,3.906
+20021110870,Environmental Technology,School of Environmental Science (SOES),3.81,4.44,1.87,3.68,4.96,3.7520000000000002
+20221170383,Statistics,School of Physical Science (SOPS),1.23,1.04,2.29,2.43,3.77,2.152
+20101184067,Agricultural Economics,School of Agriculture And Agricultural Technology (SAAT),3.25,1.01,4.17,1.82,2.54,2.558
+20141120483,School of Basic Medical Science,School of Basic Medical Science (SBMS),3.45,4.16,4.85,1.43,4.19,3.6160000000000005
+20001112565,School of Basic Medical Science,School of Basic Medical Science (SBMS),4.37,3.82,3.94,2.24,1.49,3.1719999999999997
+20111110916,Forestry and Wildlife Technology,School of Agriculture And Agricultural Technology (SAAT),4.94,4.81,1.7,3.58,3.07,3.6199999999999997
+20131142322,Statistics,School of Physical Science (SOPS),2.46,3.71,2.23,2.73,1.87,2.6
+20121166947,Environmental Technology,School of Environmental Science (SOES),2.12,4.96,1.45,2.74,3.02,2.8579999999999997
+20111182964,Computer Science,School of Information and Communication Technology (SICT),2.14,4.22,4.54,3.26,2.27,3.286
+20101163698,Geology,School of Physical Science (SOPS),1.01,2.93,1.45,1.48,4.46,2.2660000000000005
